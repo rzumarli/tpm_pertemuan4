@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:width="500px"
+        android:height="500px"
+        android:gravity="center"
+        android:text="Rahmat Zumarli"
+        android:textSize="50dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:width="500px"
+        android:height="500px"
+        android:gravity="center"
+        android:text="123170011"
+        android:textColor="#FFFF"
+        android:textSize="50dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:width="500px"
+        android:height="500px"
+        android:gravity="center"
+        android:text="PLUG B"
+        android:textColor="#FFFFFF"
+        android:textSize="50dp" />
+</LinearLayout>
